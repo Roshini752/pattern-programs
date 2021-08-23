@@ -25,7 +25,7 @@
                    }
                     printf("\n");
                    
-                   while(j==6 && j!=0)
+                   while(j==(n+1) && j!=0)
                    {
                       
                    for(k=(n-1);k>=1;k--)
